@@ -1,2 +1,3 @@
-# SensorSimulation
-Object-Oriented Sensor Simulation Projects
+# Sensor Simulation Projects
+
+This repository is for sensor simulation object-oriented C++ projects.
